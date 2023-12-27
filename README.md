@@ -8,9 +8,13 @@ This web application offers a seamless and efficient way for students to book th
 
 ## INSTALLATION AND SETUP
 install npm
+<br>
 install react 
+<br>
 install git
+<br>
 clone the git repo
+<br>
 run npm install
 
 ## OUT GROUP MEMBERS
