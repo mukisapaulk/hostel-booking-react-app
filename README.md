@@ -53,6 +53,9 @@ This web application offers a seamless and efficient way for students to book th
 
 ![image-1](https://github.com/mukisapaulk/hostel-booking-react-app/assets/131667087/ef4a72e8-1004-495c-b511-f9db43c33b1f)
 
+![image-3](https://github.com/mukisapaulk/hostel-booking-react-app/assets/131667087/e4665312-be8b-45f8-b3bc-52d920c1bf23)
+
+
 
 
 **We welcome your contributions and feedback!**
