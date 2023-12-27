@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mukisapaulk/hostel-booking-react-app/static/css/main.7a84b8ab.css",
+    "main.js": "/mukisapaulk/hostel-booking-react-app/static/js/main.ae5aab23.js",
+    "static/js/787.d3befce1.chunk.js": "/mukisapaulk/hostel-booking-react-app/static/js/787.d3befce1.chunk.js",
+    "index.html": "/mukisapaulk/hostel-booking-react-app/index.html",
+    "main.7a84b8ab.css.map": "/mukisapaulk/hostel-booking-react-app/static/css/main.7a84b8ab.css.map",
+    "main.ae5aab23.js.map": "/mukisapaulk/hostel-booking-react-app/static/js/main.ae5aab23.js.map",
+    "787.d3befce1.chunk.js.map": "/mukisapaulk/hostel-booking-react-app/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a84b8ab.css",
+    "static/js/main.ae5aab23.js"
+  ]
+}
