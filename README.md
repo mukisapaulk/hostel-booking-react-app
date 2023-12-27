@@ -1,4 +1,5 @@
 #HOTSEL BOOKING APP
+<br>
 This project was made using react and Json server to handle user verifications 
 <br>
 To run the application you need to have Node.js installed on your machine,
