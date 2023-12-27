@@ -22,10 +22,10 @@ run npm install
 | NAME | REGISTRATION NUMBER | STUDENT NUMBER|
 |---|---|---|
 | MUKISA PAUL KIBUUKA | 21/U/14614/EVE | 2100714614|
-| **Example Hostel 2** | **XYZ456** | **50** |
-| **Example Hostel 3** | **MNO789** | **200** |
-| **Example Hostel 4** | **PQR012** | **75** |
-| (Add more rows as needed) | | |
+| ANSHEMEZA MARION | 21/U/09898/EVE | 2100709898 |
+| BAGUMA REGAN | 21/U/17772/EVE | 2100717772 |
+| JAGURU HILDA| 21/U/07833/EVE |2100707833 |
+| NAMPIIMA CHRISTINE |21/U/05724/EVE | 2100705724|
 
 ## SCREENSHOTS
 
