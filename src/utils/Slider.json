@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Olympia",
+        "price": "400,043",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./2023-07-17.jpg",
+        "":""
+    },
+    {
+        "name": "Jessam",
+        "price": "100,353",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./js.jpg"
+    },
+    {
+        "name": "New nana",
+        "price": "350,853",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./nn.jpg"
+    },
+    {
+        "name": "Aryan",
+        "price": "470,043",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./4.jpg"
+    },
+    {
+        "name": "Nakiyinji",
+        "price": "66,353",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./nk.jpg"
+    },
+    {
+        "name": "JJ Hostel",
+        "price": "600,000",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./jj.jpg"
+    },
+    {
+        "name": "Douglas Villa",
+        "price": "150,000",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./dv.jpeg"
+    },
+    {
+        "name": "Muhika Hostel",
+        "price": "150,000",
+        "detail": "Makerere kikoni, Nyumbani street, kampala-Uganda",
+        "image": "./mk.jpg"
+    }
+]
