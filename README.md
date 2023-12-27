@@ -35,13 +35,19 @@ This web application offers a seamless and efficient way for students to book th
 
 (Specify the license under which the project is released)
 
-**## Table of Hostels**
+**## GROUP MEMEBERS**
+
 
 | Name | Registration Number | Number of Students |
 |---|---|---|
-| (Replace with hostel names) | (Replace with registration numbers) | (Replace with student capacities) |
+| **Example Hostel 1** | **ABC123** | **100** |
+| **Example Hostel 2** | **XYZ456** | **50** |
+| **Example Hostel 3** | **MNO789** | **200** |
+| **Example Hostel 4** | **PQR012** | **75** |
+| (Add more rows as needed) | | |
 
-(Add more rows as needed)
+(... rest of the README content ...)
+
 
 **## Screenshots**
 
