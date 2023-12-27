@@ -17,7 +17,7 @@ clone the git repo
 <br>
 run npm install
 
-## OUT GROUP MEMBERS
+## OUR GROUP MEMBERS
 
 | NAME | REGISTRATION NUMBER | STUDENT NUMBER|
 |---|---|---|
