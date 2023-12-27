@@ -1,4 +1,4 @@
-#HOTSEL BOOKING APP
+##HOTSEL BOOKING APP
 <br>
 This project was made using react and Json server to handle user verifications 
 <br>
