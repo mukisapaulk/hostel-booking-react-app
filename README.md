@@ -1,7 +1,7 @@
  # HOSTEL BOOKING APPLICATION
 
 Streamline your hostel booking process with this convenient and user-friendly application!
-##NB: am going to remake this code again to amke a better one
+##NB: am going to remake this code again to make a better one
 
 ## DESCRIPTION
 
